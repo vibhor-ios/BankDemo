@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FA34F3D9-596A-46EB-92D5-5FF73D54CC1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B5F60A6-1D7C-4B05-8235-4A2753043DA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BankDemo/AccountDetails/AccountDetailsCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "renderValues(account:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B5F60A6-1D7C-4B05-8235-4A2753043DA8 - 96e7fc7de1e4a774"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankDemo.AccountDetailsCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; BankDemo.AccountDetailsCell"
+                  moduleName = "BankDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhor.singla/Desktop/Test/BankDemo/BankDemo/AccountDetails/AccountDetailsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "6B5F60A6-1D7C-4B05-8235-4A2753043DA8 - 44513288620a3119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BankDemo.AccountDetailsCell.renderValues(account: BankDemo.Accounts) -&gt; ()"
+                  moduleName = "BankDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vibhor.singla/Desktop/Test/BankDemo/BankDemo/AccountDetails/AccountDetailsCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
